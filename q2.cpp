@@ -1,3 +1,5 @@
+2.Write a program to calculate b^n mod  m.
+
 #include <iostream>
 using namespace std;
 
