@@ -1,3 +1,5 @@
+1. Write a program to calculate a^n.
+
 #include <iostream>
 using namespace std;
 int power(int a,int n){
